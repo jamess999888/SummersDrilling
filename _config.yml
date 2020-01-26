@@ -1,2 +1,4 @@
+
+
 theme: jekyll-theme-cayman
-header: images/Pump-Truck-1.png
+header: url(images/Pump-Truck-1.png)
