@@ -420,6 +420,7 @@ a:hover{
     text-align:center;
     background-color:#159957;
     background-image:url("/SummersDrilling/images/Pump-Truck-1.png");
+    background-size:100%;
 }
 @media screen and (min-width: 64em){
     .page-header{
