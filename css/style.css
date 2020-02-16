@@ -1066,6 +1066,23 @@ ul.topnav li.right {
         max-height: 0;
         transition: max-height .2s ease-out;
     }
+    .header ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        overflow: hidden;
+        background-color: #fff;
+    }
+    .header li a {
+        display: block;
+        padding: 20px 20px;
+        border-right: 1px solid #f4f4f4;
+        text-decoration: none;
+    }
+    .header li a:hover,
+    .header .menu-btn:hover {
+        background-color: #f4f4f4;
+    }
     .header .menu-icon {
         cursor: pointer;
         display: inline-block;
