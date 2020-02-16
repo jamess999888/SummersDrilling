@@ -795,11 +795,6 @@ ul.topnav {
     float: right;
     padding-right: 10%;
   }
-  
-  @media screen and (max-width: 600px) {
-    ul.topnav li.right, 
-    ul.topnav li {float: none;}
-  }
 
   .contact-info-footer span {
       display: inline-block;
@@ -823,7 +818,7 @@ ul.topnav {
   }
 
   
-@media (max-width: 48em) {
+@media screen and (max-width: 48em) {
     .header li {
       float: left;
     }
@@ -836,19 +831,19 @@ ul.topnav {
       max-height: none;
     }
     .header .menu-icon {
-      display: none;
+        cursor: pointer;
+        display: inline-block;
+        padding: 28px 20px;
+        position: relative;
+        user-select: none;
     }
   }
 
-  
+@media screen and (min-width: 48em) {
 .header .menu-icon {
-    cursor: pointer;
-    display: inline-block;
-    padding: 28px 20px;
-    position: relative;
-    user-select: none;
+    display:none;
   }
-  
+}
   .header .menu-icon .navicon {
     background: #333;
     display: block;
