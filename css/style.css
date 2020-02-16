@@ -360,8 +360,8 @@ td,th{
 body{
     padding:0;
     margin:0;
-    font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size:16px;
+    font-family:"Montserrat";
+    font-size:20px;
     line-height:1.5;
     color:#606c71
 }
@@ -416,25 +416,16 @@ a:hover{
     }
 }
 .page-header{
-    text-align:center;
-    background-color:#BFC0C0;
-    width:100%;
-    display:inline;
+    background-color: #4F5D75;
+    padding: 1%;
+    display:flex;
+    justify-content: center;
 }
 @media screen and (min-width: 64em){
-    .page-header{
-        padding:5rem 6rem
-    }
 }
 @media screen and (min-width: 42em) and (max-width: 64em){
-    .page-header{
-        padding:3rem 4rem
-    }
 }
 @media screen and (max-width: 42em){
-    .page-header{
-        padding:2rem 1rem
-    }
 }
 .project-name{
     margin-top:0;
@@ -683,9 +674,9 @@ a:hover{
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
+/* .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
-}
+} */
 
 /* Caption text */
 .text {
@@ -719,9 +710,9 @@ a:hover{
   transition: background-color 0.6s ease;
 }
 
-.active, .dot:hover {
+/* .active, .dot:hover {
   background-color: #717171;
-}
+} */
 
 /* Fading animation */
 .fade {
@@ -743,7 +734,6 @@ a:hover{
 
 .headerUnorderedList {
     list-style-type: none;
-    text-align:center;
     display: flex;
 }
 
@@ -753,7 +743,49 @@ a:hover{
 }
 
 .headerListItem {
-    float: left;
-    flex: 0 1 auto;
     padding-left: 10%;
+    flex-grow: 1;
+    text-align: center;
 }
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2D3142;
+    text-align: center;
+  }
+  
+  ul.topnav li {
+    display: inline;
+  }
+  
+  ul.topnav li a {
+    display: inline-block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  ul.topnav li img {
+      vertical-align: middle;
+      padding-right: 5%;
+  }
+  
+  ul.topnav li a:hover:not(.active) {
+      color: #E0AD35;
+      transition: 1s;
+    }
+  
+  ul.topnav li a.active {color: #E0AD35;}
+  
+  ul.topnav li.right {
+    float: right;
+    padding-right: 10%;
+  }
+  
+  @media screen and (max-width: 600px) {
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+  }
