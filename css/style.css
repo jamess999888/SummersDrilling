@@ -805,6 +805,14 @@ ul.topnav {
     right: 0;
     top: 0;
   }
+
+  @media screen and (max-width: 600px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+  }
   .topnav.responsive a {
     float: none;
     display: block;
