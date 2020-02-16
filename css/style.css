@@ -360,7 +360,7 @@ td,th{
 body{
     padding:0;
     margin:0;
-    font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family:"Montserrat";
     font-size:16px;
     line-height:1.5;
     color:#606c71
@@ -416,23 +416,16 @@ a:hover{
     }
 }
 .page-header{
-    text-align:center;
-    display:inline;
+    background-color: #4F5D75;
+    padding: 1%;
+    display:flex;
+    justify-content: center;
 }
 @media screen and (min-width: 64em){
-    .page-header{
-        padding:5rem 6rem
-    }
 }
 @media screen and (min-width: 42em) and (max-width: 64em){
-    .page-header{
-        padding:3rem 4rem
-    }
 }
 @media screen and (max-width: 42em){
-    .page-header{
-        padding:2rem 1rem
-    }
 }
 .project-name{
     margin-top:0;
@@ -741,17 +734,14 @@ a:hover{
 
 .headerUnorderedList {
     list-style-type: none;
-    text-align:center;
     display: flex;
 }
 
 .linkButton {
     text-decoration: none;
-    color: #4F5D75;
+    color: #E0AD35;
 }
 
 .headerListItem {
-    float: left;
-    flex: 0 1 auto;
-    padding-left: 10%;
+    padding-left: 5%;
 }
