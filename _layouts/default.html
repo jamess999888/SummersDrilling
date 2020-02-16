@@ -20,11 +20,13 @@
     <link rel="stylesheet" href="{{ '/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="{{ '/js/carousel.js?v=' | append: site.github.build_revision | relative_url }}"></script>
-    <script src="{{ '/js/headerResponsive.js?v=' | append: site.github.build_revision | relative_url }}"></script>
   </head>
   <body>
-    <header role="banner">
+    <header class="header" role="banner">
       <!-- <nav> -->
+        
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
         <ul class="topnav" id="myTopnav">
           <li>
               <img src="/SummersDrilling/images/summerspumpslogo.jpg">
@@ -69,9 +71,6 @@
                 479-736-2089
               </h3>
           </li>
-          <a href="javascript:void(0);" class="icon" onclick="responsiveHeader()">
-            <i class="fa fa-bars"></i>
-          </a>
         </ul>
       <!-- </nav> -->
     </header>
