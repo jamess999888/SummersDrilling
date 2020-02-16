@@ -7,7 +7,7 @@
   </div>
 
   <div class="mySlides fade">
-    <img src="{{ '/images/TanRig.jpeg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
+    <img src="{{ '/images/yellowRig.jpeg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
   </div>
 
   <div class="mySlides fade">
