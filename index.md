@@ -2,8 +2,9 @@
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
+
   <div class="mySlides fade">
-    <img src="{{ '/images/Pump-Truck-1.png?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
+    <img src="{{ '/images/truckRaisingBoom.gif?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
   </div>
 
   <div class="mySlides fade">
@@ -11,7 +12,7 @@
   </div>
 
   <div class="mySlides fade">
-    <img src="{{ '/images/ezgif.com-video-to-gif.gif?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
+    <img src="{{ '/images/Pump-Truck-1.png?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
   </div>
 
   <!-- Next and previous buttons -->
