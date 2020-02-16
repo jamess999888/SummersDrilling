@@ -767,6 +767,11 @@ ul.topnav {
     padding: 14px 16px;
     text-decoration: none;
   }
+
+  ul.topnav li img {
+      vertical-align: middle;
+      padding-right: 5%;
+  }
   
   ul.topnav li a:hover:not(.active) {background-color: #4F5D75;}
   
