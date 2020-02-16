@@ -753,10 +753,13 @@ ul.topnav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #2D3142;
   }
   
-  ul.topnav li {float: left;}
+  ul.topnav li {
+    float: left;
+    padding-left: 10%;
+  }
   
   ul.topnav li a {
     display: block;
@@ -766,11 +769,14 @@ ul.topnav {
     text-decoration: none;
   }
   
-  ul.topnav li a:hover:not(.active) {background-color: #111;}
+  ul.topnav li a:hover:not(.active) {background-color: #4F5D75;}
   
-  ul.topnav li a.active {background-color: #4CAF50;}
+  ul.topnav li a.active {background-color: #E0AD35;}
   
-  ul.topnav li.right {float: right;}
+  ul.topnav li.right {
+    float: right;
+    padding-right: 10%;
+  }
   
   @media screen and (max-width: 600px) {
     ul.topnav li.right, 
