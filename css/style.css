@@ -751,7 +751,7 @@ a:hover{
 ul.topnav {
     list-style-type: none;
     margin: 0;
-    padding: 10%;
+    padding: 0;
     overflow: hidden;
     background-color: #2D3142;
     text-align: center;
@@ -759,7 +759,6 @@ ul.topnav {
   
   ul.topnav li {
     display: inline;
-    padding-left: 10%;
   }
   
   ul.topnav li a {
