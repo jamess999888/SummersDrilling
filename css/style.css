@@ -775,7 +775,7 @@ ul.topnav {
   
   ul.topnav li a:hover:not(.active) {
       color: #E0AD35;
-      transition: 2s;
+      transition: 1s;
     }
   
   ul.topnav li a.active {color: #E0AD35;}
