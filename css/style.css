@@ -800,3 +800,22 @@ ul.topnav {
     ul.topnav li.right, 
     ul.topnav li {float: none;}
   }
+
+  .contact-info-footer span {
+      display: inline-block;
+      padding: 0 5% 0 5%;
+  }
+
+  .contact-info-footer span span {
+      display: block;
+  }
+
+  .contact-info-footer span span a {
+      color: white;
+      text-decoration: none;
+  }
+
+  .contact-info-footer span span svg {
+    fill-opacity: 0;
+    stroke: #E0AD35;
+  }
