@@ -773,7 +773,10 @@ ul.topnav {
       padding-right: 5%;
   }
   
-  ul.topnav li a:hover:not(.active) {color: #E0AD35;}
+  ul.topnav li a:hover:not(.active) {
+      color: #E0AD35;
+      transition: 2s;
+    }
   
   ul.topnav li a.active {color: #E0AD35;}
   
