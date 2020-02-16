@@ -735,7 +735,6 @@ a:hover{
 .headerUnorderedList {
     list-style-type: none;
     display: flex;
-    flex-grow: 1;
 }
 
 .linkButton {
@@ -746,5 +745,5 @@ a:hover{
 .headerListItem {
     padding-left: 5%;
     flex-grow: 1;
-    display: inline-grid;
+    text-align: center;
 }
