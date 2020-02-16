@@ -1116,18 +1116,8 @@ ul.topnav li.right {
 }
 
 @media screen and (min-width: 48em) {
-    .header li {
-        float: left;
-    }
-    .header li a {
-        padding: 20px 30px;
-    }
-    .header .topnav {
-        clear: none;
-        float: right;
-        max-height: none;
-    }
-    .header .menu-icon {
+    .header .menu-icon,
+    .header .menu-btn {
         display: none;
     }
 }
