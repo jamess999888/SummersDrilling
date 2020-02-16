@@ -799,6 +799,21 @@ ul.topnav {
   @media screen and (max-width: 600px) {
     ul.topnav li.right, 
     ul.topnav li {float: none;}
+    .topnav.responsive {position: relative;}
+    .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  }
+
+  .topnav .icon {
+    display: none;
   }
 
   .contact-info-footer span {
