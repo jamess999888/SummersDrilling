@@ -818,12 +818,12 @@ ul.topnav {
       text-decoration: none;
   }
 
-  .contact-info-footer span span img {
+  .contact-info-footer span img {
     height: 1rem;
   }
 
   
-@media (min-width: 48em) {
+@media (max-width: 48em) {
     .header li {
       float: left;
     }
@@ -844,7 +844,6 @@ ul.topnav {
 .header .menu-icon {
     cursor: pointer;
     display: inline-block;
-    float: right;
     padding: 28px 20px;
     position: relative;
     user-select: none;
@@ -882,10 +881,6 @@ ul.topnav {
   
   .header .menu-btn {
     display: none;
-  }
-  
-  .header .menu-btn:checked ~ .menu {
-    max-height: 240px;
   }
   
   .header .menu-btn:checked ~ .menu-icon .navicon {
