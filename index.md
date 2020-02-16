@@ -4,7 +4,7 @@
   <!-- Full-width images with number and caption text -->
 
   <div class="mySlides fade">
-    <video src="{{ '/images/ColcordFast.mov' | relative_url }}" style="width:100%; height: 40rem"></video>
+    <video autoplay="autoplay" src="{{ '/images/ColcordFast.mov' | relative_url }}" style="width:100%; height: 40rem"></video>
   </div>
 
   <div class="mySlides fade">
