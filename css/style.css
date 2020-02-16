@@ -613,6 +613,7 @@ a:hover{
 .site-footer{
     background-color:#2D3142;
     color: white;
+    width: 100%;
 }
 @media screen and (min-width: 64em){
     .site-footer{
