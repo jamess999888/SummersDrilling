@@ -815,7 +815,7 @@ ul.topnav {
       text-decoration: none;
   }
 
-  .contact-info-footer span span svg {
-    fill-opacity: 0;
-    stroke: #E0AD35;
+  .contact-info-footer span span src {
+    height: auto;
+    width: auto;
   }
