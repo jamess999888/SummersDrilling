@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
