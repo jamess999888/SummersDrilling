@@ -5,33 +5,29 @@
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
     <img src="{{ '/images/Pump-Truck-1.png?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
-    <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
     <img src="{{ '/images/TanRig.jpeg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
-    <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
     <img src="{{ '/images/ezgif.com-video-to-gif.gif?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
-    <div class="text">Caption Three</div>
   </div>
 
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  
+  <div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+  </div>
 </div>
 <br>
-
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-</div>
 
 You can use the [editor on GitHub](https://github.com/jamess999888/SummersDrilling/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
