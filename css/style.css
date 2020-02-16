@@ -614,6 +614,8 @@ a:hover{
     background-color:#2D3142;
     color: white;
     width: 100%;
+    padding: 1%;
+    text-align: center;
 }
 @media screen and (min-width: 64em){
     .site-footer{
@@ -631,7 +633,6 @@ a:hover{
     }
 }
 .site-footer-owner{
-    display:block;
     font-weight:bold
 }
 .site-footer-credits{
