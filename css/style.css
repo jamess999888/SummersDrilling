@@ -751,20 +751,20 @@ a:hover{
 ul.topnav {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 10%;
     overflow: hidden;
     background-color: #2D3142;
+    text-align: center;
   }
   
   ul.topnav li {
-    float: left;
+    display: inline;
     padding-left: 10%;
   }
   
   ul.topnav li a {
-    display: block;
+    display: inline-block;
     color: white;
-    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
