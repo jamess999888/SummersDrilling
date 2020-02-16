@@ -761,7 +761,7 @@ ul.topnav {
     display: inline;
   }
   
-  ul.topnav li a {
+  ul.topnav li a,h3 {
     display: inline-block;
     color: white;
     padding: 14px 16px;
@@ -775,7 +775,7 @@ ul.topnav {
   
   ul.topnav li a:hover:not(.active) {
       color: #E0AD35;
-      transition: 1s;
+      transition: 0.5s;
     }
   
   ul.topnav li a.active {color: #E0AD35;}
