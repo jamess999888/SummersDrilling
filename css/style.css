@@ -773,9 +773,9 @@ ul.topnav {
       padding-right: 5%;
   }
   
-  ul.topnav li a:hover:not(.active) {background-color: #4F5D75;}
+  ul.topnav li a:hover:not(.active) {color: #E0AD35;}
   
-  ul.topnav li a.active {background-color: #E0AD35;}
+  ul.topnav li a.active {color: #E0AD35;}
   
   ul.topnav li.right {
     float: right;
