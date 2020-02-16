@@ -417,8 +417,6 @@ a:hover{
 }
 .page-header{
     text-align:center;
-    background-color:#BFC0C0;
-    width:100%;
     display:inline;
 }
 @media screen and (min-width: 64em){
@@ -749,7 +747,7 @@ a:hover{
 
 .linkButton {
     text-decoration: none;
-    color: #E0AD35;
+    color: #4F5D75;
 }
 
 .headerListItem {
