@@ -743,3 +743,11 @@ a:hover{
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.linkButton {
+    text-decoration: none;
+}
+
+.headerListItem {
+    float: left
+}
