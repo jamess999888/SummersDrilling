@@ -4,7 +4,7 @@
   <!-- Full-width images with number and caption text -->
 
   <div class="mySlides fade">
-    <img src="{{ '/images/truckRaisingBoom.gif?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
+    <video src="{{ '/images/ColcordFast.mov?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
   </div>
 
   <div class="mySlides fade">
