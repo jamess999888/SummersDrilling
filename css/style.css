@@ -617,6 +617,16 @@ a:hover{
     padding: 1%;
     text-align: center;
 }
+.contact-info-footer{
+    background-color:#4F5D75;
+    color: white;
+    width: 100%;
+    padding: 1%;
+    text-align: center;
+}
+.contact-info-footer-item{
+    border-right: 1px solid white;
+}
 @media screen and (min-width: 64em){
     .site-footer{
         font-size:1rem
