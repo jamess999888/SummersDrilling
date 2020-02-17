@@ -1132,7 +1132,7 @@ ul.topnav li.right {
 /* 48em = 768px */
 
 @media (max-width: 48em) {
-    .header li a {
+    ul.topnav li a {
         display: block;
     }
     .header .topnav {
