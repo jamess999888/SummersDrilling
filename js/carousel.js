@@ -19,6 +19,7 @@ function autoSlide() {
   if($(".mySlides:visible").find('video').length) {
 		//restart video, handeler will deal with changing the page when video finishes.
         $(".mySlides:visible").find("video")[0].currentTime = 0;
+		$(".mySlides:visible").find("video")[0].play();
     }
   else{
 	  setTimeout(autoSlide, 10000);
