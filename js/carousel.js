@@ -1,4 +1,5 @@
 var slideIndex = 0;
+var timer = null;
 $( document ).ready(function() {
 	$("video").each(function() {
 		this.addEventListener('ended',myHandler,false);
@@ -10,11 +11,15 @@ $( document ).ready(function() {
 });
 
 // Next/previous controls
-function plusSlides(n) {
-  showSlides(slideIndex += n);
+function goBack() {
+  slideIndex--;
+  if (n < 1) {slideIndex = slides.length}
+  slideIndex--;
+  autoSlide();
 }
 
 function autoSlide() {
+  clearTimeout(timer);
   showSlides(slideIndex += 1);
   if($(".mySlides:visible").find('video').length) {
 		//restart video, handeler will deal with changing the page when video finishes.
@@ -22,7 +27,7 @@ function autoSlide() {
 		$(".mySlides:visible").find("video")[0].play();
     }
   else{
-	  setTimeout(autoSlide, 10000);
+	  timer = setTimeout(autoSlide, 10000);
   }
 }
 
