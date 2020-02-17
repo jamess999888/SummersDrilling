@@ -874,6 +874,7 @@ a:hover {
 
 .mySlides {
     display: none;
+	height: calc(100vw * .4);
 }
 
 

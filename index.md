@@ -21,33 +21,19 @@
   <a class="next" onclick="autoSlide()">&#10095;</a>
 
 </div>
-<br>
 <footer class="contact-info-footer">
 	<span class="contact-info-footer-item">
-  <img src="/SummersDrilling/images/phoneIcon.png">
-  CALL US
-  <span>
-	Tel: <a href="tel:479-736-2089">479-736-2089</a>
-  </span>
+		DEPENDABLE SERVICE
+		We take pride in the most reliable, professional water well, pump
 	</span>
 	<span class="contact-info-footer-item">
-  <img src="/SummersDrilling/images/mailIcon.png">
-  EMAIL US
-  <span>
-	<a href="mailto:jsummers@summerswelldrilling.com">jsummers@summerswelldrilling.com</a>
-  </span>
+		HELPFUL STAFF
+		Our expert team cultivates relationships and puts the customer first in every transaction.
 	</span>
 	<span>
-  <img src="/SummersDrilling/images/timeIcon.png">
-  COME SEE US
-  <span>
-	Everyday 7AM - 9PM
-  </span>
+		QUALITY PRODUCTS
+		We install and service only the best products from tested vendors across the United States.
 	</span>
 </footer>
-<footer class="site-footer">
-	<span>© 2020 by Summers Well Drilling, LLC.
-  <span class="site-footer-owner">Maintained by MCG Web Design.</span>
-	</span>
-</footer>
+<div>
 
