@@ -5,15 +5,15 @@
   <!-- Full-width images with number and caption text -->
 
   <div class="mySlides fade">
-    <video muted playsInLine src="{{ '/images/ColcordFast.mov' | relative_url }}" style="width:100%; object-fit: fill; height: 40rem"></video>
+    <video muted playsInLine src="{{ '/images/ColcordFast.mov' | relative_url }}" style="width:100%; object-fit: fill; height: auto"></video>
   </div>
 
   <div class="mySlides fade">
-    <img src="{{ '/images/yellowRig.jpeg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
+    <img src="{{ '/images/yellowRig.jpeg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: auto">
   </div>
 
   <div class="mySlides fade">
-    <img src="{{ '/images/Pump-Truck-1.png?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: 40rem">
+    <img src="{{ '/images/Pump-Truck-1.png?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: auto">
   </div>
 
   <!-- Next and previous buttons -->
