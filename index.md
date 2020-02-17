@@ -1,3 +1,4 @@
+<script src="{{ '/js/carousel.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
@@ -16,8 +17,8 @@
   </div>
 
   <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  <a class="prev" onclick="goBack()">&#10094;</a>
+  <a class="next" onclick="autoSlide()">&#10095;</a>
 
 </div>
 <br>
