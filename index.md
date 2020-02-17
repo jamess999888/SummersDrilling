@@ -22,16 +22,16 @@
 
 </div>
 <footer class="contact-info-footer">
-	<span class="contact-info-footer-item">
-		DEPENDABLE SERVICE
+	<span class="contact-info-footer-item" style="width: 33%;">
+		DEPENDABLE SERVICE<br />
 		We take pride in the most reliable, professional water well, pump
 	</span>
-	<span class="contact-info-footer-item">
-		HELPFUL STAFF
+	<span class="contact-info-footer-item" style="width: 33%;">
+		HELPFUL STAFF<br />
 		Our expert team cultivates relationships and puts the customer first in every transaction.
 	</span>
-	<span>
-		QUALITY PRODUCTS
+	<span class="contact-info-footer-item" style="width: 33%;">
+		QUALITY PRODUCTS<br />
 		We install and service only the best products from tested vendors across the United States.
 	</span>
 </footer>
