@@ -1,7 +1,13 @@
-var slideIndex = 1;
+var slideIndex = 0;
 $( document ).ready(function() {
-    showSlides(slideIndex);
-	setTimeout(autoSlide,10000);
+  var slides = $(".mySlides");
+	$("video").each(function() {
+		this.addEventListener('ended',myHandler,false);
+			function myHandler(e) {
+				autoSlide();
+			}
+	});
+    autoSlide();
 });
 
 // Next/previous controls
@@ -11,7 +17,13 @@ function plusSlides(n) {
 
 function autoSlide() {
   showSlides(slideIndex += 1);
-  setTimeout(autoSlide, 10000);
+  if($(".mySlides:visible").find('video').length) {
+		//restart video, handeler will deal with changing the page when video finishes.
+        $(".mySlides:visible").find("video")[0].currentTime = 0;
+    }
+  else{
+	  setTimeout(autoSlide, 10000);
+  }
 }
 
 // Thumbnail image controls
@@ -21,8 +33,6 @@ function currentSlide(n) {
 
 function showSlides(n) {
   var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
   if (n > slides.length) {slideIndex = 1}
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
