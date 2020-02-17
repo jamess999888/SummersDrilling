@@ -1063,6 +1063,8 @@ ul.topnav li.right {
     clear: none;
     max-height: none;
     transition: max-height .2s ease-out;
+    position: fixed;
+    z-index: 3;
 }
 
 
@@ -1132,8 +1134,8 @@ ul.topnav li.right {
 /* 48em = 768px */
 
 @media (max-width: 48em) {
-    .header li a {
-        padding: 20px 20px;
+    ul.topnav li a {
+        display: block;
     }
     .header .topnav {
         clear: both;
