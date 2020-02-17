@@ -1113,10 +1113,12 @@ ul.topnav li.right {
 
 .header .menu-btn:checked~.menu-icon .navicon:before {
     transform: rotate(-45deg);
+    background: white;
 }
 
 .header .menu-btn:checked~.menu-icon .navicon:after {
     transform: rotate(45deg);
+    background: white;
 }
 
 .header .menu-btn:checked~.menu-icon:not(.steps) .navicon:before,
@@ -1146,6 +1148,7 @@ ul.topnav li.right {
         padding: 28px 20px;
         position: relative;
         user-select: none;
+        z-index: 5;
     }
     .header .menu-btn:checked~.topnav {
         max-height: none;
