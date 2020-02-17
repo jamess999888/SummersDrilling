@@ -1068,12 +1068,13 @@ ul.topnav li.right {
 
 /* menu icon */
 
-.header .menu-icon {
+.header .menu-icon,
+.header .responsive-header-text {
     display: none;
 }
 
 .header .menu-icon .navicon {
-    background: #333;
+    background: white;
     display: block;
     height: 2px;
     position: relative;
@@ -1083,7 +1084,7 @@ ul.topnav li.right {
 
 .header .menu-icon .navicon:before,
 .header .menu-icon .navicon:after {
-    background: #333;
+    background: white;
     content: '';
     display: block;
     height: 100%;
@@ -1155,5 +1156,14 @@ ul.topnav li.right {
     }
     #hideWhenSmall {
         display: none;
+    }
+    .header .responsive-header-text {
+        color: white;
+        padding: 15px;
+        display: inline-block;
+    }
+    .header {
+        background: #2D3142;
+        height: 60px;
     }
 }
