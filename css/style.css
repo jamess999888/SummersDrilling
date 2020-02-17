@@ -1068,7 +1068,8 @@ ul.topnav li.right {
 
 /* menu icon */
 
-.header .menu-icon {
+.header .menu-icon,
+.header .responsive-header-text {
     display: none;
 }
 
@@ -1155,5 +1156,11 @@ ul.topnav li.right {
     }
     #hideWhenSmall {
         display: none;
+    }
+    .responsiver-header-text {
+        color: white;
+    }
+    .responsive-div {
+        background: #2D3142;
     }
 }
