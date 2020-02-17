@@ -30,7 +30,7 @@
 		HELPFUL STAFF<br />
 		Our expert team cultivates relationships and puts the customer first in every transaction.
 	</span>
-	<span class="contact-info-footer-item" style="width: 33%;">
+	<span style="width: 33%;">
 		QUALITY PRODUCTS<br />
 		We install and service only the best products from tested vendors across the United States.
 	</span>
