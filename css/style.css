@@ -1063,8 +1063,6 @@ ul.topnav li.right {
     clear: none;
     max-height: none;
     transition: max-height .2s ease-out;
-    position: fixed;
-    z-index: 3;
 }
 
 
@@ -1109,10 +1107,6 @@ ul.topnav li.right {
     display: none;
 }
 
-.header .menu-btn:checked~.topnav {
-    max-height: 240px;
-}
-
 .header .menu-btn:checked~.menu-icon .navicon {
     background: transparent;
 }
@@ -1136,10 +1130,14 @@ ul.topnav li.right {
 @media (max-width: 48em) {
     ul.topnav li a {
         display: block;
+        padding: 0;
     }
     .header .topnav {
         clear: both;
         max-height: 0;
+        position: fixed;
+        z-index: 3;
+        width: 100%;
     }
     .header .menu-icon {
         cursor: pointer;
@@ -1148,5 +1146,11 @@ ul.topnav li.right {
         padding: 28px 20px;
         position: relative;
         user-select: none;
+    }
+    .header .menu-btn:checked~.topnav {
+        max-height: none;
+    }
+    #hideWhenSmall {
+        display: none;
     }
 }

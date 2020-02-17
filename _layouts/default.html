@@ -1,111 +1,115 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="{{ site.lang | default: " en-US " }}">
+
+<head>
 
     {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
-      </script>
+    </script>
     {% endif %}
-    <meta charset="UTF-8">
-
-{% seo %}
+    <meta charset="UTF-8"> {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="{{ '/js/carousel.js?v=' | append: site.github.build_revision | relative_url }}"></script>
-  </head>
-  <body>
+</head>
+
+<body>
     <header class="header" role="banner">
-      <!-- <nav> -->
-        
-      <input class="menu-btn" type="checkbox" id="menu-btn" />
-      <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+        <!-- <nav> -->
+
+        <input class="menu-btn" type="checkbox" id="menu-btn" />
+        <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
         <ul class="topnav" id="myTopnav">
-          <li>
-              <img src="/SummersDrilling/images/summerspumpslogo.jpg">
-          </li>
-          <li>
-            <a class="active">
-              <p>
-                Home
-              </p>
-            </a>
-          </li>
-          <li>
-            <a>
-              <p>
-                Plugging Abandoned Wells
-              </p>
-            </a>
-          </li>
-          <li>
-            <a>
-              <p>
-                Pump Systems
-              </p>
-            </a>
-          </li>
-          <li>
-            <a>
-              <p>
-                Filtration Systems
-              </p>
-            </a>
-          </li>
-          <li>
-            <a>
-              <p>
-                Contact Us
-              </p>
-            </a>
-          </li>
-          <li>
-              <h3>
-                479-736-2089
-              </h3>
-          </li>
+            <li id="hideWhenSmall">
+                <img src="/SummersDrilling/images/summerspumpslogo.jpg">
+            </li>
+            <li>
+                <a class="active">
+                    <p>
+                        Home
+                    </p>
+                </a>
+            </li>
+            <li>
+                <a>
+                    <p>
+                        Plugging Abandoned Wells
+                    </p>
+                </a>
+            </li>
+            <li>
+                <a>
+                    <p>
+                        Pump Systems
+                    </p>
+                </a>
+            </li>
+            <li>
+                <a>
+                    <p>
+                        Filtration Systems
+                    </p>
+                </a>
+            </li>
+            <li>
+                <a>
+                    <p>
+                        Contact Us
+                    </p>
+                </a>
+            </li>
+            <li id="hideWhenSmall">
+                <h3>
+                    479-736-2089
+                </h3>
+            </li>
         </ul>
-      <!-- </nav> -->
+        <!-- </nav> -->
     </header>
 
     <main id="content" class="main-content" role="main">
-      {{ content }}
+        {{ content }}
 
-      <footer class="contact-info-footer">
-        <span class="contact-info-footer-item">
+        <footer class="contact-info-footer">
+            <span class="contact-info-footer-item">
           <img src="/SummersDrilling/images/phoneIcon.png">
           CALL US
           <span>
             Tel: <a href="tel:479-736-2089">479-736-2089</a>
           </span>
-        </span>
-        <span class="contact-info-footer-item">
+            </span>
+            <span class="contact-info-footer-item">
           <img src="/SummersDrilling/images/mailIcon.png">
           EMAIL US
           <span>
             <a href="mailto:jsummers@summerswelldrilling.com">jsummers@summerswelldrilling.com</a>
           </span>
-        </span>
-        <span>
+            </span>
+            <span>
           <img src="/SummersDrilling/images/timeIcon.png">
           COME SEE US
           <span>
             Everyday 7AM - 9PM
           </span>
-        </span>
-      </footer>
-      <footer class="site-footer">
-        <span>© 2020 by Summers Well Drilling, LLC.
+            </span>
+        </footer>
+        <footer class="site-footer">
+            <span>© 2020 by Summers Well Drilling, LLC.
           <span class="site-footer-owner">Maintained by MCG Web Design.</span>
-        </span>
-      </footer>
+            </span>
+        </footer>
     </main>
-  </body>
+</body>
+
 </html>
