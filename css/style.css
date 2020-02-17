@@ -1133,7 +1133,7 @@ ul.topnav li.right {
 
 @media (max-width: 48em) {
     .header li a {
-        padding: 20px 20px;
+        display: block;
     }
     .header .topnav {
         clear: both;
