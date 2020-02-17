@@ -1109,10 +1109,6 @@ ul.topnav li.right {
     display: none;
 }
 
-.header .menu-btn:checked~.topnav {
-    max-height: 240px;
-}
-
 .header .menu-btn:checked~.menu-icon .navicon {
     background: transparent;
 }
@@ -1148,5 +1144,8 @@ ul.topnav li.right {
         padding: 28px 20px;
         position: relative;
         user-select: none;
+    }
+    .header .menu-btn:checked~.topnav {
+        max-height: 240px;
     }
 }
