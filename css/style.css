@@ -1063,8 +1063,6 @@ ul.topnav li.right {
     clear: none;
     max-height: none;
     transition: max-height .2s ease-out;
-    position: fixed;
-    z-index: 3;
 }
 
 
@@ -1136,6 +1134,8 @@ ul.topnav li.right {
     .header .topnav {
         clear: both;
         max-height: 0;
+        position: fixed;
+        z-index: 3;
     }
     .header .menu-icon {
         cursor: pointer;
