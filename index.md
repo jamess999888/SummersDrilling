@@ -36,4 +36,5 @@
 	</span>
 </footer>
 <div>
-
+some other text hopefully white background
+</div>
