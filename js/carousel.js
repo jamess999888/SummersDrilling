@@ -1,6 +1,5 @@
 var slideIndex = 0;
 $( document ).ready(function() {
-  var slides = $(".mySlides");
 	$("video").each(function() {
 		this.addEventListener('ended',myHandler,false);
 			function myHandler(e) {
@@ -33,6 +32,7 @@ function currentSlide(n) {
 
 function showSlides(n) {
   var i;
+  var slides = $(".mySlides");
   if (n > slides.length) {slideIndex = 1}
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
