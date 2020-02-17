@@ -11,7 +11,7 @@ function plusSlides(n) {
 
 function autoSlide() {
   showSlides(slideIndex += 1);
-  setTimeout(nextSlide, 10000);
+  setTimeout(autoSlide, 10000);
 }
 
 // Thumbnail image controls
