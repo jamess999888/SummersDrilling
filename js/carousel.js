@@ -13,7 +13,7 @@ $( document ).ready(function() {
 // Next/previous controls
 function goBack() {
   slideIndex--;
-  if (slideIndex < 1) {slideIndex = slides.length}
+  if (slideIndex < 1) {slideIndex = $(".mySlides").length}
   slideIndex--;
   autoSlide();
 }
