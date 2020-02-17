@@ -1150,7 +1150,7 @@ ul.topnav li.right {
     .header .menu-btn:checked~.topnav {
         max-height: none;
     }
-    ul.topnav li .hideWhenSmall {
+    #hideWhenSmall {
         display: none;
     }
 }
