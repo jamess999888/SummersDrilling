@@ -1157,7 +1157,7 @@ ul.topnav li.right {
     #hideWhenSmall {
         display: none;
     }
-    .responsive-header-text {
+    .header .responsive-header-text {
         color: white;
         padding: 15px;
         display: inline-block;
