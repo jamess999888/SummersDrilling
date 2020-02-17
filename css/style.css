@@ -1130,21 +1130,27 @@ ul.topnav li.right {
 @media (max-width: 48em) {
     ul.topnav li a {
         display: block;
+        padding: 0;
     }
     .header .topnav {
         clear: both;
         max-height: 0;
         position: fixed;
         z-index: 3;
+        width: 100%;
     }
     .header .menu-icon {
         cursor: pointer;
         display: inline-block;
         float: right;
+        padding: 28px 20px;
         position: relative;
         user-select: none;
     }
     .header .menu-btn:checked~.topnav {
-        max-height: 240px;
+        max-height: none;
+    }
+    .hideWhenSmall {
+        display: none;
     }
 }
