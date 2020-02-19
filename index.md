@@ -31,7 +31,7 @@
 		</ul>
 	</span>
 	<span class="contact-info-footer-item" style="width: 33%;">
-		Worry Free Install<br />
+		Arkansas - Oklahoma - Missouri<br />
 		<ul>
 			<li>Licensed</li>
 			<li>Bonded</li>
