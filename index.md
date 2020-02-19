@@ -23,22 +23,33 @@
 </div>
 <footer class="contact-info-footer">
 	<span class="contact-info-footer-item" style="width: 33%;">
-		DEPENDABLE SERVICE<br />
-		We take pride in the most reliable, professional water well, pump
+		WELL DRILLING SOLUTIONS<br />
+		<ul>
+			<li>Residential</li>
+			<li>Commercial</li>
+			<li>Industrial</li>
+		</ul>
 	</span>
 	<span class="contact-info-footer-item" style="width: 33%;">
-		HELPFUL STAFF<br />
-		Our expert team cultivates relationships and puts the customer first in every transaction.
+		Arkansas - Oklahoma - Missouri<br />
+		<ul>
+			<li>Licensed</li>
+			<li>Bonded</li>
+			<li>Insured</li>
+		</ul>
 	</span>
 	<span style="width: 33%;">
-		QUALITY PRODUCTS<br />
+		<br />
 		We install and service only the best products from tested vendors across the United States.
 	</span>
 </footer>
-<div>
-<br />
-<div>
-<p>Free Estimates</p>
-</div>
 
+
+<div style="width:100%; display: inline; background-color: #BFC0C0">
+<div style="display: inline-block">
+
+</div>
+<div style="display: inline-block">
+
+</div>
 </div>
