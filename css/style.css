@@ -667,10 +667,9 @@ a:hover {
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
     font-weight: normal;
-    color: #159957
 }
 
 .main-content p {
@@ -1013,7 +1012,7 @@ ul.topnav li {
 }
 
 ul.topnav li a,
-h3 {
+ul.topnav li h3 {
     display: inline-block;
     color: white;
     padding: 14px 16px;

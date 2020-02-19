@@ -21,33 +21,32 @@
   <a class="next" onclick="autoSlide()">&#10095;</a>
 
 </div>
-<footer class="contact-info-footer">
+<div class="contact-info-footer">
 	<span class="contact-info-footer-item" style="width: 33%;">
-		WELL DRILLING SOLUTIONS<br />
-		<ul>
+		<h3>Well Drilling Solutions</h3>
+		<ul style="list-style-type: none;">
 			<li>Residential</li>
 			<li>Commercial</li>
 			<li>Industrial</li>
 		</ul>
 	</span>
 	<span class="contact-info-footer-item" style="width: 33%;">
-		Arkansas - Oklahoma - Missouri<br />
-		<ul>
+		<h3>Worry Free Install</h3>
+		<ul style="list-style-type: none;">
 			<li>Licensed</li>
 			<li>Bonded</li>
 			<li>Insured</li>
 		</ul>
 	</span>
 	<span style="width: 33%;">
-		<br />
-		Wide Operation Range
-		<ul>
+		<h3>Wide Operation Range</h3>
+		<ul style="list-style-type: none;">
 			<li>Arkansas</li>
 			<li>Oklahoma</li>
 			<li>Missouri</li>
 		</ul>
 	</span>
-</footer>
+</div>
 
 
 <div style="width:100%; display: inline; background-color: #BFC0C0">
