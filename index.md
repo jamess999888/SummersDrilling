@@ -22,7 +22,7 @@
 
 </div>
 <div class="contact-info-footer">
-	<span class="contact-info-footer-item" style="width: 33%;">
+	<span class="contact-info-footer-item" style="width: 15%;align-content: center;border-right: 1px solid white;">
 		<h3>Well Drilling Solutions</h3>
 		<ul style="list-style-type: none;">
 			<li>Residential</li>
@@ -30,7 +30,7 @@
 			<li>Industrial</li>
 		</ul>
 	</span>
-	<span class="contact-info-footer-item" style="width: 33%;">
+	<span style="width: 15%;align-content: center;border-right: 1px solid white;">
 		<h3>Worry Free Install</h3>
 		<ul style="list-style-type: none;">
 			<li>Licensed</li>
@@ -38,7 +38,7 @@
 			<li>Insured</li>
 		</ul>
 	</span>
-	<span style="width: 33%;">
+	<span style="width: 15%;align-content: center;">
 		<h3>Wide Operation Range</h3>
 		<ul style="list-style-type: none;">
 			<li>Arkansas</li>
