@@ -36,5 +36,9 @@
 	</span>
 </footer>
 <div>
-some other text hopefully white background
+<br />
+<div>
+<p>Free Estimates</p>
+</div>
+
 </div>
