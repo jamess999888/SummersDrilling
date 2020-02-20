@@ -1090,9 +1090,9 @@ ul.topnav li.right {
 
 .mid-page-lists span {
     display: inline-block;
-    width: 15%;
+    width: 30%;
     align-content: center;
-    padding: 0 1%;
+    padding: 0 5%;
 }
 
 .mid-page-lists span h3 {
