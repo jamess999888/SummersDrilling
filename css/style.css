@@ -818,7 +818,8 @@ a:hover {
     text-align: center;
 }
 
-.contact-info-footer {
+.contact-info-footer,
+.mid-page-lists {
     background-color: #4F5D75;
     color: white;
     width: 100%;
