@@ -1038,7 +1038,7 @@ ul.topnav li {
 ul.topnav li a,
 ul.topnav li h3 {
     display: inline-block;
-    color: white;
+    color: #BFC0C0;
     padding: 14px 16px;
     text-decoration: none;
 }
