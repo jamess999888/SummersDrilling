@@ -873,16 +873,17 @@ a:hover {
 
 .mySlides {
     display: none;
-	height: calc(100vw * .4);
+    height: calc(100vw * .4);
 }
 
-.centerLeftList
-{
-	list-style-type: none;
+.centerLeftList {
+    list-style-type: none;
     display: inline-block;
     text-align: left;
     padding: 0;
 }
+
+
 /* Next & previous buttons */
 
 .prev,
@@ -1069,6 +1070,10 @@ ul.topnav li.right {
     clear: none;
     max-height: none;
     transition: max-height .2s ease-out;
+}
+
+.mid-page-lists span {
+    display: inline-block;
 }
 
 

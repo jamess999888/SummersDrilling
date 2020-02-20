@@ -21,8 +21,8 @@
   <a class="next" onclick="autoSlide()">&#10095;</a>
 
 </div>
-<div class="contact-info-footer">
-	<span class="contact-info-footer-item" style="width: 15%;align-content: center;border-right: 1px solid white;">
+<div class="mid-page-lists">
+	<span style="width: 15%;align-content: center;border-right: 1px solid white;">
 		<h3>Well Drilling Solutions</h3>
 		<ul class="centerLeftList">
 			<li>Residential</li>
