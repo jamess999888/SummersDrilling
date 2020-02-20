@@ -1150,13 +1150,13 @@ ul.topnav li.right {
     display: inline-block;
     width: 50%;
     padding: 5% 5%;
-    vertical-align: top;
+    vertical-align: middle;
+    height: 100%;
 }
 
 .content-right {
     display: inline-block;
     width: 40%;
-    padding-top: 3%;
     text-align: center;
     vertical-align: middle;
 }
@@ -1167,6 +1167,11 @@ ul.topnav li.right {
 
 .content-left-header {
     border-bottom: 1px solid #2D3142;
+    padding-bottom: 2%;
+}
+
+.content-left-body {
+    padding-top: 2%;
 }
 
 
