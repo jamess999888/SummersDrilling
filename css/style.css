@@ -832,12 +832,6 @@ a:hover {
     border-right: 1px solid white;
 }
 
-.mid-page-lists span {
-    width: 15%;
-    align-content: center;
-    padding: 0 1%;
-}
-
 @media screen and (min-width: 64em) {
     .site-footer {
         font-size: 1rem
@@ -1082,6 +1076,9 @@ ul.topnav li.right {
 
 .mid-page-lists span {
     display: inline-block;
+    width: 15%;
+    align-content: center;
+    padding: 0 1%;
 }
 
 
