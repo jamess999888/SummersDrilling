@@ -24,27 +24,15 @@
 <div class="mid-page-lists">
 	<span class="mid-page-list-border">
 		<h3>Well Drilling Solutions</h3>
-		<ul class="centerLeftList">
-			<li>Residential</li>
-			<li>Commercial</li>
-			<li>Industrial</li>
-		</ul>
+		<div class="mid-page-info">
+			Offering drilling solutions for residential, commercial and industrial projects.
+		</div>
 	</span>
 	<span class="mid-page-list-border">
 		<h3>Worry Free Install</h3>
-		<ul class="centerLeftList">
-			<li>Licensed</li>
-			<li>Bonded</li>
-			<li>Insured</li>
-		</ul>
-	</span>
-	<span>
-		<h3>Wide Operation Range</h3>
-		<ul class="centerLeftList">
-			<li>Arkansas</li>
-			<li>Oklahoma</li>
-			<li>Missouri</li>
-		</ul>
+		<div class="mid-page-info">
+			Licensed, bonded and insured in Missouri, Arkansas and Oklahoma.
+		</div>
 	</span>
 </div>
 

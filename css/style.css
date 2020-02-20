@@ -893,6 +893,12 @@ a:hover {
     font-size: 0.9rem;
 }
 
+.mid-page-info {
+    display: inline-block;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
 
 /* Next & previous buttons */
 
