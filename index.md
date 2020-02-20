@@ -22,7 +22,7 @@
 
 </div>
 <div class="mid-page-lists">
-	<span style="width: 15%;align-content: center;border-right: 1px solid white;">
+	<span class="mid-page-list-border">
 		<h3>Well Drilling Solutions</h3>
 		<ul class="centerLeftList">
 			<li>Residential</li>
@@ -30,7 +30,7 @@
 			<li>Industrial</li>
 		</ul>
 	</span>
-	<span style="width: 15%;align-content: center;border-right: 1px solid white;">
+	<span class="mid-page-list-border">
 		<h3>Worry Free Install</h3>
 		<ul class="centerLeftList">
 			<li>Licensed</li>
@@ -38,7 +38,7 @@
 			<li>Insured</li>
 		</ul>
 	</span>
-	<span style="width: 15%;align-content: center;">
+	<span>
 		<h3>Wide Operation Range</h3>
 		<ul class="centerLeftList">
 			<li>Arkansas</li>
@@ -49,11 +49,16 @@
 </div>
 
 
-<div style="width:100%; display: inline; background-color: #BFC0C0">
+<!-- <div style="width:100%; display: inline; background-color: #BFC0C0">
 <div style="display: inline-block">
 
 </div>
-<div style="display: inline-block">
-
-</div>
+<div style="display: inline-block"> -->
+<div class="content">
+	<div class="content-left">
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dapibus tempor nulla, sed finibus erat dapibus eget. Donec non mi dictum, porta nisi ut, efficitur dui. Sed in leo magna. Cras volutpat, tortor volutpat tempor maximus, orci odio bibendum diam, finibus convallis sapien ligula ac ipsum. Integer iaculis dui eu felis ullamcorper commodo. Etiam augue lectus, pharetra id ultricies pulvinar, rutrum vestibulum quam. Praesent vehicula, purus quis sodales auctor, lectus lacus tincidunt est, sit amet tristique felis nulla eget velit. Nulla ultrices, felis sit amet faucibus dignissim, massa neque placerat ex, in tristique nisi arcu non dolor. Donec finibus tortor nec urna rhoncus, vitae commodo erat imperdiet. Proin ac scelerisque dui.
+	</div>
+	<div class="content-right">
+		<img src="/SummersDrilling/images/Yellow rig1.jpg">
+	</div>
 </div>

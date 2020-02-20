@@ -827,8 +827,14 @@ a:hover {
     text-align: center;
 }
 
-.contact-info-footer-item {
+.contact-info-footer-item,
+.mid-page-list-border {
     border-right: 1px solid white;
+}
+
+.mid-page-list-border span {
+    width: 15%;
+    align-content: center;
 }
 
 @media screen and (min-width: 64em) {
@@ -1013,6 +1019,10 @@ ul.topnav {
     overflow: hidden;
     background-color: #2D3142;
     text-align: center;
+}
+
+.content-right {
+    display: inline-block;
 }
 
 ul.topnav li {
