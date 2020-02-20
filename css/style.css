@@ -835,6 +835,7 @@ a:hover {
 .mid-page-list-border span {
     width: 15%;
     align-content: center;
+    padding: 0 1%;
 }
 
 @media screen and (min-width: 64em) {
@@ -1021,10 +1022,6 @@ ul.topnav {
     text-align: center;
 }
 
-.content-right {
-    display: inline-block;
-}
-
 ul.topnav li {
     display: inline;
 }
@@ -1147,6 +1144,29 @@ ul.topnav li.right {
 .header .menu-btn:checked~.menu-icon:not(.steps) .navicon:before,
 .header .menu-btn:checked~.menu-icon:not(.steps) .navicon:after {
     top: 0;
+}
+
+.content-left {
+    display: inline-block;
+    width: 50%;
+    padding: 5% 5%;
+    vertical-align: top;
+}
+
+.content-right {
+    display: inline-block;
+    width: 40%;
+    padding-top: 3%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.content-right img {
+    width: 50%;
+}
+
+.content-left-header {
+    border-bottom: 1px solid #2D3142;
 }
 
 

@@ -56,7 +56,12 @@
 <div style="display: inline-block"> -->
 <div class="content">
 	<div class="content-left">
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dapibus tempor nulla, sed finibus erat dapibus eget. Donec non mi dictum, porta nisi ut, efficitur dui. Sed in leo magna. Cras volutpat, tortor volutpat tempor maximus, orci odio bibendum diam, finibus convallis sapien ligula ac ipsum. Integer iaculis dui eu felis ullamcorper commodo. Etiam augue lectus, pharetra id ultricies pulvinar, rutrum vestibulum quam. Praesent vehicula, purus quis sodales auctor, lectus lacus tincidunt est, sit amet tristique felis nulla eget velit. Nulla ultrices, felis sit amet faucibus dignissim, massa neque placerat ex, in tristique nisi arcu non dolor. Donec finibus tortor nec urna rhoncus, vitae commodo erat imperdiet. Proin ac scelerisque dui.
+		<div class="content-left-header">
+			<h2>Header</h2>
+		</div>
+		<div class="content-left-body">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dapibus tempor nulla, sed finibus erat dapibus eget. Donec non mi dictum, porta nisi ut, efficitur dui. Sed in leo magna. Cras volutpat, tortor volutpat tempor maximus, orci odio bibendum diam, finibus convallis sapien ligula ac ipsum. Integer iaculis dui eu felis ullamcorper commodo. Etiam augue lectus, pharetra id ultricies pulvinar, rutrum vestibulum quam. Praesent vehicula, purus quis sodales auctor, lectus lacus tincidunt est, sit amet tristique felis nulla eget velit. Nulla ultrices, felis sit amet faucibus dignissim, massa neque placerat ex, in tristique nisi arcu non dolor. Donec finibus tortor nec urna rhoncus, vitae commodo erat imperdiet. Proin ac scelerisque dui.
+		</div>
 	</div>
 	<div class="content-right">
 		<img src="/SummersDrilling/images/Yellow rig1.jpg">
