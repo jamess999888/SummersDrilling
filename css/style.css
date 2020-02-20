@@ -1161,6 +1161,10 @@ ul.topnav li.right {
     top: 0;
 }
 
+.content {
+    background-color: #D4D6D6;
+}
+
 .content-left {
     display: inline-block;
     width: 50%;
