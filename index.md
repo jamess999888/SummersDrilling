@@ -45,10 +45,13 @@
 <div class="content">
 	<div class="content-left">
 		<div class="content-left-header">
-			<h2>Header</h2>
+			<h2>3rd Generation, family owned and operated</h2>
 		</div>
 		<div class="content-left-body">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dapibus tempor nulla, sed finibus erat dapibus eget. Donec non mi dictum, porta nisi ut, efficitur dui. Sed in leo magna. Cras volutpat, tortor volutpat tempor maximus, orci odio bibendum diam, finibus convallis sapien ligula ac ipsum. Integer iaculis dui eu felis ullamcorper commodo. Etiam augue lectus, pharetra id ultricies pulvinar, rutrum vestibulum quam. Praesent vehicula, purus quis sodales auctor, lectus lacus tincidunt est, sit amet tristique felis nulla eget velit. Nulla ultrices, felis sit amet faucibus dignissim, massa neque placerat ex, in tristique nisi arcu non dolor. Donec finibus tortor nec urna rhoncus, vitae commodo erat imperdiet. Proin ac scelerisque dui.
+			Summers Well Drilling and Pumps is a family business and we treat our customers like family.
+			Summers Well Drilling and Pumps operates three drill rigs to ensure a complete job in a timely manor. We pride ourselves in giving our customers the best service available from the first phone call all the way through putting the cap on your new well.<br /><br />
+			We work hard to make sure you get the best quality work at an affordable price. Our experienced staff can solve almost any water problem and eliminate common issues such as hardness and sulfur. We only use products that are made in the U.S. and source locally when available.<br /> <br />
+			Give us a call today to see what we can do for you.
 		</div>
 	</div>
 	<div class="content-right">
