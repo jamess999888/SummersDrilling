@@ -811,7 +811,7 @@ a:hover {
 }
 
 .site-footer {
-    background-color: #2F4193;
+    background-color: #36569B;
     color: #BFC0C0;
     width: 100%;
     padding: 1%;
@@ -1027,7 +1027,7 @@ ul.topnav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #2F4193;
+    background-color: #36569B;
     text-align: center;
 }
 
@@ -1187,7 +1187,7 @@ ul.topnav li.right {
 }
 
 .content-left-header {
-    border-bottom: 1px solid #2F4193;
+    border-bottom: 1px solid #36569B;
     padding-bottom: 2%;
 }
 
@@ -1231,7 +1231,7 @@ ul.topnav li.right {
         display: inline-block;
     }
     .header {
-        background: #2F4193;
+        background: #36569B;
         height: 60px;
     }
 }
