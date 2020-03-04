@@ -1245,6 +1245,8 @@ ul.topnav li.right {
     }
     .mid-page-list-border {
         border-right: none;
+    }
+    .mid-page-lists .span {
         width: 100%;
     }
 }
