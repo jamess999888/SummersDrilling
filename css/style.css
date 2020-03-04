@@ -1234,4 +1234,17 @@ ul.topnav li.right {
         background: #36569B;
         height: 60px;
     }
+    .content-right {
+        display: none;
+    }
+    .content-left {
+        width: 100%;
+    }
+    #worryFreeInstall {
+        display: none;
+    }
+    .mid-page-list-border {
+        border-right: none;
+        width: 100%;
+    }
 }

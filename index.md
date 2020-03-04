@@ -28,7 +28,7 @@
 			Offering drilling solutions for residential, commercial and industrial projects.
 		</div>
 	</span>
-	<span>
+	<span id="worryFreeInstall">
 		<h3>Worry Free Install</h3>
 		<div class="mid-page-info">
 			Licensed, bonded and insured in Missouri, Arkansas and Oklahoma.
