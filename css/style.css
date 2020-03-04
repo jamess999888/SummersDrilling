@@ -569,7 +569,7 @@ a:hover {
 }
 
 .page-header {
-    background-color: #2F4193;
+    background-color: #4F5D75;
     padding: 1%;
     display: flex;
     justify-content: center;
@@ -811,7 +811,7 @@ a:hover {
 }
 
 .site-footer {
-    background-color: #2D3142;
+    background-color: #2F4193;
     color: #BFC0C0;
     width: 100%;
     padding: 1%;
@@ -820,7 +820,7 @@ a:hover {
 
 .contact-info-footer,
 .mid-page-lists {
-    background-color: #2F4193;
+    background-color: #4F5D75;
     color: #BFC0C0;
     width: 100%;
     padding: 1%;
@@ -1027,7 +1027,7 @@ ul.topnav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #2D3142;
+    background-color: #2F4193;
     text-align: center;
 }
 
@@ -1187,7 +1187,7 @@ ul.topnav li.right {
 }
 
 .content-left-header {
-    border-bottom: 1px solid #2D3142;
+    border-bottom: 1px solid #2F4193;
     padding-bottom: 2%;
 }
 
@@ -1231,7 +1231,7 @@ ul.topnav li.right {
         display: inline-block;
     }
     .header {
-        background: #2D3142;
+        background: #2F4193;
         height: 60px;
     }
 }
