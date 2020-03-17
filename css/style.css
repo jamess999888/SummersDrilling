@@ -1054,11 +1054,6 @@ ul.topnav li.right {
     padding-right: 10%;
 }
 
-.contact-info-footer span {
-    display: inline-block;
-    padding: 0 5% 0 5%;
-}
-
 .contact-info-footer span span {
     display: block;
     font-size: 0.75rem;
@@ -1081,7 +1076,8 @@ ul.topnav li.right {
     transition: max-height .2s ease-out;
 }
 
-.mid-page-lists span {
+.mid-page-lists span,
+.contact-info-footer span {
     display: inline-block;
     width: 30%;
     align-content: center;
