@@ -25,7 +25,7 @@
 	<span class="mid-page-list-border">
 		<h3>Well Drilling Solutions</h3>
 		<div class="mid-page-info">
-			Offering drilling solutions for residential, commercial and industrial projects.
+			Offering drilling solutions for residential, commercial and agricultural projects.
 		</div>
 	</span>
 	<span id="worryFreeInstall">
