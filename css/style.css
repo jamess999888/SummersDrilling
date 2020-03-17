@@ -827,22 +827,8 @@ a:hover {
     text-align: center;
 }
 
-.contact-info-footer-item:after {
-    content: "";
-    /* This is necessary for the pseudo element to work. */
-    /* display: block; */
-    /* This will put the pseudo element on its own line. */
-    margin: 0 auto;
-    /* This will center the border. */
-    /* width: 80%; */
-    /* Change this to whatever width you want. */
-    padding-left: 2%;
-    /* This creates some space between the element and the border. */
-    border-right: 1px solid #BFC0C0;
-    /* This creates the border. Replace black with whatever color you want. */
-}
-
-.mid-page-list-border {
+.mid-page-list-border,
+.contact-info-footer-item {
     border-right: 1px solid #BFC0C0;
 }
 
