@@ -64,3 +64,30 @@
 		<img src="/SummersDrilling/images/Yellow rig1.jpg">
 	</div>
 </div>
+
+<div class="bottom-block-links">
+            <a class="bottom-block-link">
+                <h2 class="bottom-block-link-header">
+                    Have an old unused well?
+                </h2>
+                <div class="bottom-block-link-content">
+                    Please refer to the "Plugging Abandoned Wells" page.
+                </div>
+            </a>
+            <a class="bottom-block-link" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">
+                <h2 class="bottom-block-link-header">
+                    Looking for well drilling regulations?
+                </h2>
+                <div class="bottom-block-link-content">
+                    Please refer to these rules posted by the Arkansas Natural Resources Commission.
+                </div>
+            </a>
+            <a class="bottom-block-link">
+                <h2 class="bottom-block-link-header">
+                    Have more questions?
+                </h2>
+                <div class="bottom-block-link-content">
+                    Please refer to the "FAQ" page.
+                </div>
+            </a>
+        </div>
