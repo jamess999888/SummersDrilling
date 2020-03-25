@@ -1290,11 +1290,14 @@ ul.topnav li.right {
         border-bottom: 1px solid #BFC0C0;
         /* This creates the border. Replace black with whatever color you want. */
     }
+    .bottom-block-links {
+        padding: 1% 2%;
+    }
     .bottom-block-link {
         display: block;
         width: 100%;
         height: auto;
-        margin: 2% 0;
+        margin: 5% 0;
     }
     .bottom-block-link-header {
         height: auto;
