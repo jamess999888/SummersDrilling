@@ -28,16 +28,16 @@
 			Offering drilling solutions for residential, commercial and agricultural projects.
 		</div>
 	</span>
-	<span class="mid-page-list-border mid-page-additional-section">
+	<span id="hideWhenSmall" class="mid-page-list-border mid-page-additional-section">
 		<h3>Free Estimates</h3>
 		<div class="mid-page-info">
 			Give us a call for a free estimate and consoltation on well drilling and pump services.
 		</div>
 	</span>
-	<span class="mid-page-list-border mid-page-additional-section">
+	<span id="hideWhenSmall" class="mid-page-additional-section">
 		<h3>Local Service</h3>
 		<div class="mid-page-info">
-			Local service operating out of north eastern Oklahoma and servicing the Missouri, Arkansas and Oklahoma area.
+			Locally Owned operating out of north eastern Oklahoma and servicing the Tri-state area.
 		</div>
 	</span>
 </div>
