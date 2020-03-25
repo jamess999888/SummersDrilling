@@ -1292,5 +1292,6 @@ ul.topnav li.right {
     }
     .bottom-block-link {
         display: block;
+        width: 100%;
     }
 }
