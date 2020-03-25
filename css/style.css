@@ -1231,7 +1231,7 @@ ul.topnav li.right {
     font-size: 15px;
 }
 
-.active,
+.active .collapsible,
 .collapsible:hover {
     background-color: #555;
 }
