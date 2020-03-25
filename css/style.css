@@ -1211,9 +1211,10 @@ ul.topnav li.right {
 }
 
 .bottom-block-link-header {
-    height: 10rem;
+    height: 7rem;
     padding-top: 5%;
-    border-bottom: 1px solid #BFC0C0
+    border-bottom: 1px solid #BFC0C0;
+    font-size: 1.4em;
 }
 
 
@@ -1293,5 +1294,10 @@ ul.topnav li.right {
     .bottom-block-link {
         display: block;
         width: 100%;
+        height: auto;
+        margin: 2% 0;
+    }
+    .bottom-block-link-header {
+        height: auto;
     }
 }
