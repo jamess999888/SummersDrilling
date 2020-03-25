@@ -31,13 +31,13 @@
 	<span id="hideWhenSmall" class="mid-page-list-border mid-page-additional-section">
 		<h3>Free Estimates</h3>
 		<div class="mid-page-info">
-			Give us a call for a free estimate and consoltation on well drilling and pump services.
+			Give us a call for a free estimate and consultation on well drilling and pump services.
 		</div>
 	</span>
 	<span id="hideWhenSmall" class="mid-page-additional-section">
 		<h3>Local Service</h3>
 		<div class="mid-page-info">
-			Locally Owned operating out of north eastern Oklahoma and servicing the Tri-state area.
+			Locally owned and operating out of Northeastern Oklahoma and servicing the tri-state area.
 		</div>
 	</span>
 </div>
