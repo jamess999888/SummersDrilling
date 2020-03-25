@@ -1202,7 +1202,6 @@ ul.topnav li.right {
     padding: 0 2% 0 2%;
     width: 15%;
     height: 20rem;
-    vertical-align: middle;
     margin: 0 2%;
 }
 
@@ -1299,5 +1298,10 @@ ul.topnav li.right {
     }
     .bottom-block-link-header {
         height: auto;
+        padding: 2% 0;
+    }
+    .bottom-block-link-content {
+        margin-top: 2%;
+        padding: 2%;
     }
 }
