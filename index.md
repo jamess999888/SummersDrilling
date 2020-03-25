@@ -28,10 +28,10 @@
 			Offering drilling solutions for residential, commercial and agricultural projects.
 		</div>
 	</span>
-	<span id="worryFreeInstall">
-		<h3>Worry Free Install</h3>
+	<span id="freeEstimates">
+		<h3>Free Estimates</h3>
 		<div class="mid-page-info">
-			Licensed, bonded and insured in Missouri, Arkansas and Oklahoma.
+			Give us a call for a free estimate and consoltation on well drilling and pump services.
 		</div>
 	</span>
 </div>
