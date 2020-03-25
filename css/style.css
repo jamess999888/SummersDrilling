@@ -632,10 +632,6 @@ a:hover {
     word-wrap: break-word
 }
 
-.main-content :first-child {
-    margin-top: 0
-}
-
 @media screen and (min-width: 64em) {
     .main-content {
         margin: 0 auto;
@@ -1203,29 +1199,21 @@ ul.topnav li.right {
 .bottom-block-link {
     background-color: #36569B;
     display: inline-block;
-    padding: 2% 2% 0 2%;
-    width: 20%;
+    padding: 0 2% 0 2%;
+    width: 15%;
     height: 20rem;
     vertical-align: middle;
+    margin: 0 2%;
 }
 
 .bottom-block-link-content {
     margin-top: 5%;
 }
 
-.bottom-block-link-header:after {
-    content: "";
-    /* This is necessary for the pseudo element to work. */
-    display: block;
-    /* This will put the pseudo element on its own line. */
-    margin: 0 auto;
-    /* This will center the border. */
-    width: 30%;
-    /* Change this to whatever width you want. */
+.bottom-block-link-header {
+    height: 10rem;
     padding-top: 5%;
-    /* This creates some space between the element and the border. */
-    border-bottom: 1px solid #BFC0C0;
-    /* This creates the border. Replace black with whatever color you want. */
+    border-bottom: 1px solid #BFC0C0
 }
 
 
@@ -1301,5 +1289,8 @@ ul.topnav li.right {
         /* This creates some space between the element and the border. */
         border-bottom: 1px solid #BFC0C0;
         /* This creates the border. Replace black with whatever color you want. */
+    }
+    .bottom-block-link {
+        display: block;
     }
 }
