@@ -1236,18 +1236,18 @@ ul.topnav li.right {
     border-bottom: 1px solid #BFC0C0;
 }
 
-div.active.collapsible,
+.collapsible .active,
 .collapsible:hover {
     background-color: #BFC0C0;
     transition: 0.5s;
 }
 
 .collapsible-content {
-    padding: 0 18px;
+    padding: 0 2%;
     overflow: hidden;
-    height: 0px;
+    height: 0rem;
     transition: height 0.5s;
-    background-color: #BFC0C0;
+    background-color: white;
 }
 
 #faq {
