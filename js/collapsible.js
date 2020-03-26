@@ -6,7 +6,7 @@ $(document).ready(function() {
         coll[i].addEventListener("click", function() {
             this.classList.toggle("active");
             var content = this.nextElementSibling;
-            if (content.style.display === "block") {
+            if (content.style.height === "auto") {
                 content.style.height = "0px";
             } else {
                 content.style.height = "auto";

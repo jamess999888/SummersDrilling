@@ -1246,7 +1246,7 @@ div.active.collapsible,
     padding: 0 18px;
     overflow: hidden;
     height: 0px;
-    transition: height 200ms;
+    transition: height 0.5s;
     background-color: #BFC0C0;
 }
 
