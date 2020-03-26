@@ -7,7 +7,7 @@ $(document).ready(function() {
             this.classList.toggle("active");
             var content = this.nextElementSibling;
             if (content.style.display === "block") {
-                content.style.height = 0;
+                content.style.height = "0px";
             } else {
                 content.style.height = "auto";
             }
