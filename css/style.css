@@ -1236,7 +1236,7 @@ ul.topnav li.right {
     border-bottom: 1px solid #BFC0C0;
 }
 
-.active .collapsible,
+div.active.collapsible,
 .collapsible:hover {
     background-color: #BFC0C0;
     transition: 0.5s;
