@@ -1247,6 +1247,7 @@ div.active.collapsible,
     display: none;
     overflow: hidden;
     background-color: #BFC0C0;
+    transition: height 0.3s ease-out
 }
 
 #faq {
