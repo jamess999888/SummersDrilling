@@ -6,10 +6,10 @@ $(document).ready(function() {
         coll[i].addEventListener("click", function() {
             this.classList.toggle("active");
             var content = this.nextElementSibling;
-            if (content.style.height === "auto") {
+            if (content.style.height === "250px") {
                 content.style.height = "0px";
             } else {
-                content.style.height = "auto";
+                content.style.height = "250px";
             }
         });
     }
