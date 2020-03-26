@@ -6,16 +6,11 @@ $(document).ready(function() {
         coll[i].addEventListener("click", function() {
             this.classList.toggle("active");
             var content = this.nextElementSibling;
-            growDiv(content);
+            if (content.style.display === "block") {
+                content.style.height = 0;
+            } else {
+                content.style.height = "auto";
+            }
         });
     }
 });
-
-function growDiv(element) {
-    if (element.clientHeight) {
-        element.style.height = 0;
-    } else {
-        var wrapper = document.querySelector('.measuringWrapper');
-        growDiv.style.height = wrapper.clientHeight + "px";
-    }
-}

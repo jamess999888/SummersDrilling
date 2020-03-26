@@ -1244,10 +1244,9 @@ div.active.collapsible,
 
 .collapsible-content {
     padding: 0 18px;
-    background-color: #BFC0C0;
-    transition: height .5s;
-    height: 0;
     overflow: hidden;
+    transition: height 200ms;
+    background-color: #BFC0C0;
 }
 
 #faq {
