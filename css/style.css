@@ -1256,20 +1256,18 @@ ul.topnav li.right {
     float: right;
 }
 
-background-color: #D4D6D6;
-
-}
 #faq h1 {
     text-align: center;
 }
 
+
 /* 48em = 768px */
+
 @media (max-width: 48em) {
     ul.topnav li a {
         display: block;
         padding: 0;
     }
-    
     .header .topnav {
         clear: both;
         max-height: 0;
@@ -1277,7 +1275,6 @@ background-color: #D4D6D6;
         z-index: 3;
         width: 100%;
     }
-    
     .header .menu-icon {
         cursor: pointer;
         display: inline-block;
@@ -1287,53 +1284,42 @@ background-color: #D4D6D6;
         user-select: none;
         z-index: 5;
     }
-    
     .header .menu-btn:checked~.topnav {
         max-height: none;
     }
-    
     #hideWhenSmall {
         display: none;
     }
-    
     .header .responsive-header-text {
         color: white;
         padding: 15px;
         display: inline-block;
     }
-    
     .header {
         background: #36569B;
         height: 60px;
     }
-    
     .content-right {
         display: none;
     }
-    
     .content-left {
         width: 100%;
         text-align: center;
         margin: 0 0;
     }
-    
     .mid-page-list-border {
         border-right: none;
     }
-    
     .mid-page-lists span {
         width: 100%;
     }
-    
     .contact-info-footer span {
         display: block;
         padding: 2% 5%;
     }
-    
     .contact-info-footer-item {
         border-right: none;
     }
-    
     .contact-info-footer-item:after {
         content: "";
         /* This is necessary for the pseudo element to work. */
@@ -1348,23 +1334,19 @@ background-color: #D4D6D6;
         border-bottom: 1px solid #BFC0C0;
         /* This creates the border. Replace black with whatever color you want. */
     }
-    
     .bottom-block-links {
         padding: 1% 2%;
     }
-    
     .bottom-block-link {
         display: block;
         width: 100%;
         height: auto;
         margin: 5% 0;
     }
-    
     .bottom-block-link-header {
         height: auto;
         padding: 2% 0;
     }
-    
     .bottom-block-link-content {
         margin-top: 2%;
         padding: 2%;

@@ -2,7 +2,7 @@
 
 <div id="root">
     <div id="faq">
-        <h1>Frequently Asked Questions</h1>
+        <h1 class="faq-header">Frequently Asked Questions</h1>
 
         <div class="collapsible-list">
             <button class="collapsible">
