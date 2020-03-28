@@ -3,7 +3,6 @@ $(document).ready(function() {
 	var openThis;
 	$(".collapsible").click(function() {
 		var openThis = ($(this).next(".collapsible-content:hidden").length);
-		console.log(openThis);
 		$(".collapsible").removeClass("active");
 		var collapsibleContent = $(this).next(".collapsible-content");
 		$(".collapsible").find("img").attr('src',"/SummersDrilling/images/downArrow.png");
