@@ -1245,7 +1245,6 @@ ul.topnav li.right {
 .collapsible-content {
     padding: 0 2%;
     overflow: hidden;
-    transition: height 0.5s;
     background-color: white;
     border-bottom: 1px solid #BFC0C0;
 }
