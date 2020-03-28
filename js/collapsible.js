@@ -6,10 +6,13 @@ $(document).ready(function() {
         coll[i].addEventListener("click", function() {
             this.classList.toggle("active");
             var content = this.nextElementSibling;
-            if (content.style.height === "5rem") {
-                content.style.height = "0rem";
+            var innerDiv = content.firstChild;
+            if (content.style.height !== "0px") {
+                content.style.height = "0px";
+                content.style.padding = "0 2%";
             } else {
-                content.style.height = "5rem";
+                content.style.height = innerDiv.style.height;
+                content.style.padding = "1% 2% 0 2%";
             }
         });
     }

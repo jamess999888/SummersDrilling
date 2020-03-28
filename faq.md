@@ -9,7 +9,9 @@
                 Where to put the well?
                 <img src="/SummersDrilling/images/downArrow.png">
             </button>
-            <div class="collapsible-content">Anywhere it will be convenient to service, near electrical power, far away from septic and other contaminant sources.</div>
+            <div class="collapsible-content">
+                <div class="collapsible-inner-content">Anywhere it will be convenient to service, near electrical power, far away from septic and other contaminant sources.</div>
+            </div>
 
             <button class="collapsible">How long does it taketo drill a well?</button>
             <div class="collapsible-content">Normally from one to three days.</div>
