@@ -6,7 +6,7 @@ $(document).ready(function() {
         coll[i].addEventListener("click", function() {
             this.classList.toggle("active");
             var content = this.nextElementSibling;
-            var innerDiv = content.firstChild;
+            var innerDiv = content.firstElementChild;
             if (content.style.height !== "0px") {
                 content.style.height = "0px";
                 content.style.padding = "0 2%";
