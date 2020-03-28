@@ -1251,6 +1251,10 @@ ul.topnav li.right {
     border-bottom: 1px solid #BFC0C0;
 }
 
+.collapsible-inner-content {
+    height: 100%;
+}
+
 .collapsible img {
     height: 1rem;
     float: right;
