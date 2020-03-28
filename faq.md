@@ -6,15 +6,15 @@
 
         <div class="collapsible-list">
             <button class="collapsible">
-                Where to put the well?
+                Where should I put the well?
                 <img src="/SummersDrilling/images/downArrow.png">
             </button>
             <div class="collapsible-content">
-                <div class="collapsible-inner-content">Anywhere it will be convenient to service, near electrical power, far away from septic and other contaminant sources.</div>
+                <div class="collapsible-inner-content">Anywhere it will be convenient to service, near electrical power, and far away from septic and other contaminant sources.</div>
             </div>
 
             <button class="collapsible">
-				How long does it taketo drill a well?
+				How long does it take to drill a well?
 				<img src="/SummersDrilling/images/downArrow.png">
 			</button>
             <div class="collapsible-content">Normally from one to three days.</div>
