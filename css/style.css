@@ -1256,6 +1256,10 @@ ul.topnav li.right {
     float: right;
 }
 
+#faq {
+    background-color: #D4D6D5;
+}
+
 #faq h1 {
     text-align: center;
 }
