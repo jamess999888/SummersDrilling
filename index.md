@@ -84,7 +84,7 @@
 							Please refer to these rules posted by the Arkansas Natural Resources Commission.
 						</div>
 					</a>
-					<a class="bottom-block-link" href="/faq">
+					<a class="bottom-block-link" href="/SummersDrilling/faq">
 						<h2 class="bottom-block-link-header">
 							Have more questions?
 						</h2>
