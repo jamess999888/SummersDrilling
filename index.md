@@ -63,7 +63,7 @@
 				</div>
 			</div>
 			<div class="content-right">
-				<img src="/SummersDrilling/images/Yellow rig1.jpg">
+				<img src="{{ '/images/Yellow rig1.jpg' | relative_url }}">
 			</div>
 		</div>
 
@@ -84,7 +84,7 @@
 							Please refer to these rules posted by the Arkansas Natural Resources Commission.
 						</div>
 					</a>
-					<a class="bottom-block-link">
+					<a class="bottom-block-link" href="{{ 'faq' | relative_url }}">
 						<h2 class="bottom-block-link-header">
 							Have more questions?
 						</h2>

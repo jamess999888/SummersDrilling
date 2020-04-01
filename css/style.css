@@ -1204,7 +1204,7 @@ ul.topnav li.right {
     margin: 0 2%;
     vertical-align: middle;
     text-decoration: none;
-    color: #BFC0C0;
+    color: #D4D6D5;
     cursor: pointer;
 }
 
@@ -1215,7 +1215,7 @@ ul.topnav li.right {
 .bottom-block-link-header {
     height: 7rem;
     padding-top: 5%;
-    border-bottom: 1px solid #BFC0C0;
+    border-bottom: 1px solid #D4D6D6;
     font-size: 1.4em;
 }
 
@@ -1264,7 +1264,7 @@ ul.topnav li.right {
 
 #faq h1 {
     text-align: center;
-	padding-top: 1%;
+    padding-top: 1%;
 }
 
 
@@ -1358,11 +1358,11 @@ ul.topnav li.right {
         margin-top: 2%;
         padding: 2%;
     }
-	.collapsible:hover {
-    background-color: white;
-    transition: 0s;
-	}
-	.collapsible-list {
-		padding: 2% 0;
-	}
+    .collapsible:hover {
+        background-color: white;
+        transition: 0s;
+    }
+    .collapsible-list {
+        padding: 2% 0;
+    }
 }
