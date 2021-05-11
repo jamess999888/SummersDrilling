@@ -68,30 +68,39 @@
 		</div>
 
 		<div class="bottom-block-links">
-					<a class="bottom-block-link">
+					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
 							Have an old unused well?
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "Plugging Abandoned Wells" page.
+							<br>
+							<br>
+							<a>More Info</a>
 						</div>
-					</a>
-					<a class="bottom-block-link" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">
+					</div>
+					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
 							Looking for well drilling regulations?
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to these rules posted by the Arkansas Natural Resources Commission.
+							<br>
+							<br>
+							<a href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">More Info</a>
 						</div>
-					</a>
-					<a class="bottom-block-link" href="{{ 'faq' | relative_url }}">
+					</div>
+					<div class="bottom-block-link" href="{{ 'faq' | relative_url }}">
 						<h2 class="bottom-block-link-header">
 							Have more questions?
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "FAQ" page.
+							<br>
+							<br>
+							<a>More Info</a>
 						</div>
-					</a>
+					</div>
 				</div>
 	</div>
 </div>
