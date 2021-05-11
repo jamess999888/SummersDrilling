@@ -1346,6 +1346,15 @@ ul.topnav li.right {
     height: 100%;
 }
 
+.abandonedWells h1 {
+    border-bottom: 1px solid #36569B;
+    padding-bottom: 2%;
+}
+
+.abandonedWells p {
+    padding-top: 2%;
+}
+
 
 /* 48em = 768px */
 
