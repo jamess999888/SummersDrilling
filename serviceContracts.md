@@ -5,22 +5,26 @@
         <h1 class="serviceContracts-header">Service Contracts</h1>
         <div>
             We offer service contracts for both pump systems and filtration systems.  You pay one monthly fee and never have to worry about parts or maintenance.
-            <ul>
-                <lh><h3>Pump Systems Service Contract:</h3></lh>
-                <li>Quarterly maintenance visits</li>
-                <li>ALL parts and labor included</li>
-                <li>Extra service calls – up to 2 per quarter</li>
-            </ul>
+            <div id = "list">
+                <ul>
+                    <lh><h3>Pump Systems Service Contract:</h3></lh>
+                    <li>Quarterly maintenance visits</li>
+                    <li>ALL parts and labor included</li>
+                    <li>Extra service calls – up to 2 per quarter</li>
+                </ul>
+            </div>
             <b>NEVER HAVE TO PAY FOR REPAIRS AGAIN</b>
-            <ul>
-                <lh><h3>Filtration systems service contract:</h3></lh>
-                <li>Quarterly maintenance visits</li>
-                <li>ALL filtration supplies</li>
-                <li>Media changeout when needed</li>
-                <li>Yearly cleaning of brine and holding tanks</li>
-                <li>Salt/Hydrogen peroxide refills</li>
-                <li>ALL maintenance included</li>
-            </ul>
+            <div id = "list">
+                <ul>
+                    <lh><h3>Filtration systems service contract:</h3></lh>
+                    <li>Quarterly maintenance visits</li>
+                    <li>ALL filtration supplies</li>
+                    <li>Media changeout when needed</li>
+                    <li>Yearly cleaning of brine and holding tanks</li>
+                    <li>Salt/Hydrogen peroxide refills</li>
+                    <li>ALL maintenance included</li>
+                </ul>
+            </div>
             <b>NEVER PAY FOR MAINTENANCE OR SUPPLIES AGAIN</b>
             <br>
             <br>
