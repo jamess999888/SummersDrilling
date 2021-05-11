@@ -823,6 +823,12 @@ a:hover {
     text-align: center;
 }
 
+.mid-page-lists a {
+    color: #D4D6D5;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .mid-page-list-border,
 .contact-info-footer-item {
     border-right: 1px solid #BFC0C0;
