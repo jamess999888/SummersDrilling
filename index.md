@@ -91,7 +91,7 @@
 							<a target="_blank" rel="noreferrer noopener" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">More Info</a>
 						</div>
 					</div>
-					<div class="bottom-block-link" href="{{ 'faq' | relative_url }}">
+					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
 							Have more questions?
 						</h2>
@@ -99,7 +99,7 @@
 							Please refer to the "FAQ" page.
 							<br>
 							<br>
-							<a>More Info</a>
+							<a href="{{ 'faq' | relative_url }}">More Info</a>
 						</div>
 					</div>
 				</div>
