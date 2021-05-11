@@ -5,8 +5,9 @@
         <h1 class="serviceContracts-header">Service Contracts</h1>
         <div>
             We offer service contracts for both pump systems and filtration systems.  You pay one monthly fee and never have to worry about parts or maintenance.
-            <div class="listHeader">
-                <h2>Pump Systems Service Contract:</h2>
+            <div class="outerList">
+                <div class="listHeader">
+                    <h2>Pump Systems Service Contract:</h2>
                 </div>
                 <div class = "list-left">
                     <ul>
@@ -14,13 +15,14 @@
                         <li>ALL parts and labor included</li>
                         <li>Extra service calls – up to 2 per quarter</li>
                     </ul>
-                    <br>
                 </div>
                 <div class="listFooter">
-                <b>NEVER HAVE TO PAY FOR REPAIRS AGAIN</b>
+                    <b>NEVER HAVE TO PAY FOR REPAIRS AGAIN</b>
+                </div>
             </div>
-            <div class = "listHeader">
-                <h2>Filtration systems service contract:</h2>
+            <div class="outerList">
+                <div class = "listHeader">
+                    <h2>Filtration systems service contract:</h2>
                 </div>
                 <div class = "list">
                     <ul>
@@ -33,7 +35,8 @@
                     </ul>
                 </div>
                 <div class="listFooter">
-                <b>NEVER PAY FOR MAINTENANCE OR SUPPLIES AGAIN</b>
+                    <b>NEVER PAY FOR MAINTENANCE OR SUPPLIES AGAIN</b>
+                </div>
             </div>
             <br>
             <a>Contact Us for more information.</a>

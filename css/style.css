@@ -1299,7 +1299,8 @@ ul.topnav li.right {
 }
 
 #serviceContracts .listHeader,
-#serviceContracts .listFooter {
+#serviceContracts .listFooter,
+#serviceContracts .outerList {
     display: inline-block;
     padding: 2% 2% 2% 2%;
     width: 40%;
