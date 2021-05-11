@@ -1296,9 +1296,8 @@ ul.topnav li.right {
 
 #serviceContracts #list {
     display: inline-block;
-    padding: 0 2% 0 2%;
+    padding: 2% 2% 2% 2%;
     width: 40%;
-    height: 20rem;
     margin: 0 2%;
     vertical-align: middle;
     text-decoration: none;
