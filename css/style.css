@@ -1411,4 +1411,13 @@ ul.topnav li.right {
     .collapsible-list {
         padding: 2% 0;
     }
+    #serviceContracts div {
+        padding: 1% 2%;
+    }
+    #serviceContracts #list {
+        display: block;
+        width: 100%;
+        height: auto;
+        margin: 5% 0;
+    }
 }
