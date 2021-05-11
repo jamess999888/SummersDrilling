@@ -1348,6 +1348,10 @@ ul.topnav li.right {
     text-align: center;
 }
 
+.abandonedWells ul {
+    padding-left: 20%;
+}
+
 .abandonedWells h1 {
     border-bottom: 1px solid #36569B;
     padding-bottom: 2%;
