@@ -1294,6 +1294,10 @@ ul.topnav li.right {
     width: 100%;
 }
 
+#serviceContracts h2 {
+    padding: 2% 0;
+}
+
 #serviceContracts #list {
     display: inline-block;
     padding: 2% 2% 2% 2%;
