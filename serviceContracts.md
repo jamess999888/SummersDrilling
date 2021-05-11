@@ -12,6 +12,8 @@
                     <li>ALL parts and labor included</li>
                     <li>Extra service calls – up to 2 per quarter</li>
                 </ul>
+                <br>
+                <br>
                 <b>NEVER HAVE TO PAY FOR REPAIRS AGAIN</b>
             </div>
             <div id = "list">
@@ -24,10 +26,10 @@
                     <li>Salt/Hydrogen peroxide refills</li>
                     <li>ALL maintenance included</li>
                 </ul>
+                <br>
+                <br>
                 <b>NEVER PAY FOR MAINTENANCE OR SUPPLIES AGAIN</b>
             </div>
-            <br>
-            <br>
             <a>Contact Us for more information.</a>
         </div>
         
