@@ -1292,7 +1292,6 @@ ul.topnav li.right {
     padding: 2% 20%;
     text-align: center;
     width: 100%;
-    vertical-align: middle;
 }
 
 #serviceContracts #list {
@@ -1308,6 +1307,7 @@ ul.topnav li.right {
 #serviceContracts ul {
     display: inline-block;
     text-align: left;
+    vertical-align: middle;
 }
 
 #serviceContracts b {
