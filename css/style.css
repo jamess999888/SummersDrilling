@@ -1294,7 +1294,8 @@ ul.topnav li.right {
 }
 
 #serviceContracts ul {
-    text-align: left
+    display: inline-block;
+    text-align: left;
 }
 
 #serviceContracts b {
