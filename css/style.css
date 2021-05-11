@@ -1339,6 +1339,13 @@ ul.topnav li.right {
     padding-bottom: 1%
 }
 
+.abandonedWells {
+    display: inline-block;
+    padding: 5% 20%;
+    vertical-align: middle;
+    height: 100%;
+}
+
 
 /* 48em = 768px */
 
