@@ -87,7 +87,7 @@
 							Please refer to these rules posted by the Arkansas Natural Resources Commission.
 							<br>
 							<br>
-							<a href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">More Info</a>
+							<a target="_blank" rel="noreferrer noopener" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">More Info</a>
 						</div>
 					</div>
 					<div class="bottom-block-link" href="{{ 'faq' | relative_url }}">
