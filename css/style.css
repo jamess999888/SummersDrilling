@@ -1088,7 +1088,7 @@ ul.topnav li.right {
     padding: 0 5%;
 }
 
-.mid-page-lists span h2 {
+.mid-page-lists span h3 {
     padding-bottom: 5%;
 }
 
@@ -1210,6 +1210,12 @@ ul.topnav li.right {
 
 .bottom-block-link-content {
     margin-top: 5%;
+}
+
+.bottom-block-link-content a {
+    color: #D4D6D5;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 .bottom-block-link-header {
