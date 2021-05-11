@@ -25,21 +25,21 @@
 		</div>
 		<div class="mid-page-lists">
 			<span class="mid-page-list-border">
-				<h3>Well Drilling Solutions</h3>
+				<h2>Well Drilling Solutions</h2>
 				<div class="mid-page-info">
 					Offering drilling solutions for residential, commercial and agricultural projects.
 				</div>
 			</span>
 			<span id="hideWhenSmall" class="mid-page-list-border mid-page-additional-section">
-				<h3>Free Estimates</h3>
+				<h2>Free Estimates</h2>
 				<div class="mid-page-info">
 					Give us a call for a free estimate and consultation on well drilling and pump services.
 				</div>
 			</span>
 			<span id="hideWhenSmall" class="mid-page-additional-section">
-				<h3>Local Service</h3>
+				<h2>Local Service</h2>
 				<div class="mid-page-info">
-					Locally owned and operating out of Northeastern Oklahoma and servicing the tri-state area.
+					ARKANSAS, OKLAHOMA, MISSOURI – LICENSED, BONDED, INSURED
 				</div>
 			</span>
 		</div>
