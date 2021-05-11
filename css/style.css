@@ -1295,6 +1295,9 @@ ul.topnav li.right {
 
 #serviceContracts #list {
     display: block;
+    width: 100%;
+    height: auto;
+    margin: 5% 0;
 }
 
 #serviceContracts ul {

@@ -12,8 +12,8 @@
                     <li>ALL parts and labor included</li>
                     <li>Extra service calls – up to 2 per quarter</li>
                 </ul>
+                <b>NEVER HAVE TO PAY FOR REPAIRS AGAIN</b>
             </div>
-            <b>NEVER HAVE TO PAY FOR REPAIRS AGAIN</b>
             <div id = "list">
                 <ul>
                     <lh><h3>Filtration systems service contract:</h3></lh>
@@ -24,8 +24,8 @@
                     <li>Salt/Hydrogen peroxide refills</li>
                     <li>ALL maintenance included</li>
                 </ul>
+                <b>NEVER PAY FOR MAINTENANCE OR SUPPLIES AGAIN</b>
             </div>
-            <b>NEVER PAY FOR MAINTENANCE OR SUPPLIES AGAIN</b>
             <br>
             <br>
             <a>Contact Us for more information.</a>
