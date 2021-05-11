@@ -1342,14 +1342,10 @@ ul.topnav li.right {
 .abandonedWells,
 .abandonedWells h2 {
     display: inline-block;
-    padding: 5% 20%;
+    padding: 2% 20%;
     vertical-align: middle;
     height: 100%;
     text-align: center;
-}
-
-.abandonedWells ul {
-    padding-left: 20%;
 }
 
 .abandonedWells h1 {
@@ -1357,8 +1353,10 @@ ul.topnav li.right {
     padding-bottom: 2%;
 }
 
-.abandonedWells p {
-    padding-top: 2%;
+.abandonedWells p,
+.abandonedWells ul {
+    display: inline-block;
+    text-align: left;
 }
 
 
