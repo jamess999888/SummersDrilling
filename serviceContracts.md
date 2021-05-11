@@ -12,6 +12,7 @@
                 <li>Extra service calls – up to 2 per quarter</li>
             </ul>
             <b>NEVER HAVE TO PAY FOR REPAIRS AGAIN</b>
+            <br>
             <ul>
                 <lh>Filtration systems service contract:</lh>
                 <li>Quarterly maintenance visits</li>

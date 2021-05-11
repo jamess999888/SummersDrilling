@@ -1293,6 +1293,14 @@ ul.topnav li.right {
     text-align: center;
 }
 
+#serviceContracts lh {
+    font-size: 1.2rem;
+}
+
+#serviceContracts b {
+    padding-bottom: 1%
+}
+
 
 /* 48em = 768px */
 
