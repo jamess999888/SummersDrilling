@@ -1,5 +1,7 @@
 <div id="root">
   <div class="content">
+    <h1> Abandoned Wells </h1>
+    
     <p>A well that is not in use-or sometimes referred to as an "abandoned" well - can be a potential threat to health, safety and the environment. Wells that are no longer used may be buried or forgotten. Often, they have not been sealed properly. Sealing is the process of clearing an unused well of debris and filling the well with a special material called grout. Owners may seal their own well; however, the Commission strongly recommends that the sealing be done by a licensed well contractor. Unused wells that have not been properly sealed can be a source of ground water contamination, potentially affecting nearby drinking water wells. As a well ages, the casing may rust, joints may leak, the pump may become stuck in the well, or the well may fill with debris. If the well is covered with loose boards or concrete, the cover may eventually decay or break open. Surface water runoff, debris and other contaminants can then enter the well.,</p>
 
     <h2>WHAT DOES THE LAW REQUIRE?</h2>
