@@ -11,11 +11,11 @@
 		</div>
 
 		<div class="mySlides fade">
-			<img src="{{ '/images/yellowrig.jpg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: calc(100vw * .4);">
+			<img src="{{ '/images/wellBumblebee.jpg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: calc(100vw * .4);">
 		</div>
 
 		<div class="mySlides fade">
-			<img src="{{ '/images/silver3QuarterTonCropped.jpeg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: calc(100vw * .4);">
+			<img src="{{ '/images/wellPeanut.jpg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: calc(100vw * .4);">
 		</div>
 
 		<!-- Next and previous buttons -->
