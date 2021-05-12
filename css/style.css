@@ -1323,14 +1323,9 @@ ul.topnav li.right {
     text-decoration: none;
 }
 
-
-/* #serviceContracts .left {
-    display: inline-block;
+#serviceContracts .left {
     padding: 2% 2% 21% 2%;
-    margin: 0 2%;
-    vertical-align: middle;
-    text-decoration: none;
-} */
+}
 
 #serviceContracts ul {
     display: inline-block;
@@ -1525,5 +1520,9 @@ ul.topnav li.right {
     #serviceContracts .outerList {
         display: block;
         padding: 2% 5%;
+        width: 100%;
+    }
+    #serviceContracts .left {
+        padding: 2% 2% 2% 2%;
     }
 }
