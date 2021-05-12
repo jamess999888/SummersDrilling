@@ -19,7 +19,7 @@
         <li>Intermingling of desirable and undesirable water is prevented.</li>
       </ul>
 
-      <h2>Have an abandoned well that needs sealed? Contact us</h2>
+      <h2>Have an abandoned well that needs sealed? <a href="http://www.summerswelldrilling.com/contactUs">Contact us</a></h2>
     </div>
   </div>
 </div>
