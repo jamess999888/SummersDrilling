@@ -1502,4 +1502,12 @@ ul.topnav li.right {
         height: auto;
         margin: 5% 0;
     }
+    .contactUs-content-right {
+        display: none;
+    }
+    .contactUs-content-left {
+        width: 100%;
+        text-align: center;
+        margin: 0 0;
+    }
 }
