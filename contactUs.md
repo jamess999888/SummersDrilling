@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="contactUs-content-right">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3216.7873439277405!2d-94.58415214893297!3d36.26894147996361!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9bb402d6aa301%3A0x13299b10035bd3c6!2sSummers%20Pumps!5e0!3m2!1sen!2sus!4v1620782907963!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3216.7873439277405!2d-94.58415214893297!3d36.26894147996361!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9bb402d6aa301%3A0x13299b10035bd3c6!2sSummers%20Pumps!5e0!3m2!1sen!2sus!4v1620782907963!5m2!1sen!2sus" loading="lazy"></iframe>
 			</div>
 		</div>
     </div>
