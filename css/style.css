@@ -1323,13 +1323,14 @@ ul.topnav li.right {
     text-decoration: none;
 }
 
-#serviceContracts .left {
+
+/* #serviceContracts .left {
     display: inline-block;
     padding: 2% 2% 21% 2%;
     margin: 0 2%;
     vertical-align: middle;
     text-decoration: none;
-}
+} */
 
 #serviceContracts ul {
     display: inline-block;
