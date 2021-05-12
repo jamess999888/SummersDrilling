@@ -34,7 +34,7 @@
 				<h2>Free Estimates</h2>
 				<div class="mid-page-info">
 					Give us a call for a free estimate and consultation on well drilling and pump services.
-					<a>Contact Us</a>
+					<a href="http://www.summerswelldrilling.com/contactUs">Contact Us</a>
 				</div>
 			</span>
 			<span id="hideWhenSmall" class="mid-page-additional-section">
