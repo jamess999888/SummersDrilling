@@ -1284,8 +1284,8 @@ ul.topnav li.right {
 }
 
 #serviceContracts h1 {
-    text-align: center;
-    padding-top: 1%;
+    border-bottom: 1px solid #36569B;
+    padding-bottom: 2%;
 }
 
 #serviceContracts div {

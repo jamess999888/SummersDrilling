@@ -2,8 +2,8 @@
 
 <div id="root">
     <div id="serviceContracts">
-        <h1 class="serviceContracts-header">Service Contracts</h1>
         <div class="content">
+        <h1 class="serviceContracts-header">Service Contracts</h1>
             We offer service contracts for both pump systems and filtration systems.  You pay one monthly fee and never have to worry about parts or maintenance.
             <div class="outerList">
                 <div class="listHeader">
