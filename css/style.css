@@ -1505,7 +1505,7 @@ ul.topnav li.right {
     .contactUs-content-right {
         text-align: center;
         vertical-align: middle;
-        padding: 2% 0;
+        padding: 2% 0 5% 0;
         width: 100%;
     }
     .contactus-content-right iframe {
@@ -1516,5 +1516,8 @@ ul.topnav li.right {
         width: 100%;
         text-align: center;
         margin: 0 0;
+    }
+    .abandonedWells h2 {
+        font-size: .9rem;
     }
 }
