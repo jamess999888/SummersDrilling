@@ -1518,6 +1518,7 @@ ul.topnav li.right {
         margin: 0 0;
     }
     .abandonedWells h2 {
-        font-size: 3rem;
+        padding: 2% 0;
+        font-size: 1.4rem;
     }
 }
