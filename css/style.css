@@ -1503,7 +1503,13 @@ ul.topnav li.right {
         margin: 5% 0;
     }
     .contactUs-content-right {
-        display: none;
+        text-align: center;
+        vertical-align: middle;
+        padding: 2% 0;
+    }
+    .contactus-content-right iframe {
+        width: 50%;
+        height: 50%;
     }
     .contactUs-content-left {
         width: 100%;
