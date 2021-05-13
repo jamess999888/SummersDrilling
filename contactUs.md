@@ -13,7 +13,7 @@
                     <br>
                     <a href="tel:479-736-2089">479-736-2089</a>
                     <br>
-                    <a href="mailto:jsummers@summerswelldrilling.com">jsummers@summerswelldrilling.com</a>
+                    <a href="mailto:raquelsummers9@gmail.com">raquelsummers9@gmail.com</a>
 				</div>
 			</div>
 			<div class="contactUs-content-right">
