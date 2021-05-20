@@ -77,7 +77,7 @@
 							Please refer to the "Plugging Abandoned Wells" page.
 							<br>
 							<br>
-							<a  href="{{ 'abandonedWells' | relative_url }}">More Info</a>
+							<button  href="{{ 'abandonedWells' | relative_url }}">More Info</button>
 						</div>
 					</div>
 					<div class="bottom-block-link">
@@ -88,7 +88,7 @@
 							Please refer to these rules posted by the Arkansas Natural Resources Commission.
 							<br>
 							<br>
-							<a target="_blank" rel="noreferrer noopener" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">More Info</a>
+							<button target="_blank" rel="noreferrer noopener" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">More Info</button>
 						</div>
 					</div>
 					<div class="bottom-block-link">
@@ -99,7 +99,7 @@
 							Please refer to the "FAQ" page.
 							<br>
 							<br>
-							<a href="{{ 'faq' | relative_url }}">More Info</a>
+							<button href="{{ 'faq' | relative_url }}">More Info</button>
 						</div>
 					</div>
 				</div>
