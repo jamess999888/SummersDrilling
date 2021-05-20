@@ -75,10 +75,8 @@
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "Plugging Abandoned Wells" page.
-							<br>
-							<br>
-							<button  href="{{ 'abandonedWells' | relative_url }}">More Info</button>
 						</div>
+							<button  href="{{ 'abandonedWells' | relative_url }}">More Info</button>
 					</div>
 					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
@@ -86,10 +84,8 @@
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to these rules posted by the Arkansas Natural Resources Commission.
-							<br>
-							<br>
-							<button target="_blank" rel="noreferrer noopener" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">More Info</button>
 						</div>
+							<button target="_blank" rel="noreferrer noopener" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">More Info</button>
 					</div>
 					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
@@ -97,10 +93,8 @@
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "FAQ" page.
-							<br>
-							<br>
-							<button href="{{ 'faq' | relative_url }}">More Info</button>
 						</div>
+							<button href="{{ 'faq' | relative_url }}">More Info</button>
 					</div>
 				</div>
 	</div>
