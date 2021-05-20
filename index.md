@@ -85,7 +85,7 @@
 						<div class="bottom-block-link-content">
 							Please refer to these rules posted by the Arkansas Natural Resources Commission.
 						</div>
-							<button target="_blank" rel="noreferrer noopener" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">More Info</button>
+							<a target="_blank" rel="noreferrer noopener" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf"><button>More Info</button></a>
 					</div>
 					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
@@ -94,7 +94,7 @@
 						<div class="bottom-block-link-content">
 							Please refer to the "FAQ" page.
 						</div>
-							<button href="{{ 'faq' | relative_url }}">More Info</button>
+							<a href="{{ 'faq' | relative_url }}"><button>More Info</button></a>
 					</div>
 				</div>
 	</div>
