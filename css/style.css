@@ -1216,10 +1216,12 @@ ul.topnav li.right {
     color: #D4D6D5;
 }
 
-.bottom-block-link button {
+.bottom-block-link a {
     background-color: #D4D6D5;
     color: #36569B;
     margin-top: 5%;
+    appearance: button;
+    text-decoration: none;
 }
 
 .bottom-block-link-content {

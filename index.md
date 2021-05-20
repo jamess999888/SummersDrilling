@@ -76,7 +76,7 @@
 						<div class="bottom-block-link-content">
 							Please refer to the "Plugging Abandoned Wells" page.
 						</div>
-							<button  href="{{ 'abandonedWells' | relative_url }}">More Info</button>
+							<a  href="{{ 'abandonedWells' | relative_url }}">More Info</a>
 					</div>
 					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
